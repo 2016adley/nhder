@@ -1,5 +1,5 @@
 # nhder
-一个 nhentai 本子下载器
+一个含有语言过滤和智能去重功能的 nhentai 本子下载器
 
 ![](https://i.loli.net/2018/12/18/5c18cf206615e.gif)
 
